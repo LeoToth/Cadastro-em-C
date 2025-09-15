@@ -6,7 +6,6 @@ Sistema de cadastro em linguagem C para registro de usuários com validação de
 - Cadastro de nome, idade, matrícula, email e telefone
 - Formatação internacional para caracteres em português
 - Validação de entrada de dados
-- Interface de console amigável
 
 ## Tecnologias Utilizadas
 - Linguagem C
